@@ -33,13 +33,13 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akatsukiz/akatsukiz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akatsukiz/akatsukiz/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/akatsukiz/akatsukiz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boontatt/boontatt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boontatt/boontatt/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/boontatt/boontatt/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akatsukiz.akatsukiz&left_color=hotpink&right_color=darkslateblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=boontatt.boontatt&left_color=hotpink&right_color=darkslateblue"  />
 </div>
 
 ###
